@@ -12,8 +12,8 @@ Incoming MS Bioinformatics student at Johns Hopkins University with a background
 ## Featured Repositories
 
 ### 🧬 [Biomedical Trial Variability Analysis](https://github.com/sy-chou/biomedical-trial-variability-analysis)
-A Python-based pipeline evaluating longitudinal patient-level biomarker fluctuations. Features automated data cleaning, intra-patient correlation matrices, and variability-based feature prioritization for clinical trials. 
-* **Keywords:** *Tabular Data, Biomarkers, Pipeline Engineering, Pandas/NumPy*
+A modular Python pipeline for patient-level biomarker feature prioritization using multivariable OLS regression, log-transform robustness checks, and publication-grade statistical visualizations.
+* **Keywords:** *Bioinformatics, Computational Biology, Precision Medicine, Biomarkers, Translational Oncology, Regression Analysis, Python*
 
 ### 🫁 [Lung Cancer Data Science Analysis](./lung-cancer-data-science-analysis)
 An exploratory and predictive data science workflow evaluating clinical risk patterns in lung cancer datasets. Implements disciplined cross-validation, multi-metric classification, and biological feature interpretation.
