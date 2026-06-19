@@ -30,5 +30,5 @@ A document processing layout designed to transition unstructured paperwork into 
 * **Tools & Workflows:** Git/GitHub, Reproducible Environments (`requirements.txt`, Conda), Jupyter Notebooks
 
 ## Contact & Links
-* **Email:** [your.email@jhu.edu or personal]
-* **LinkedIn:** [linkedin.com/in/shuoyang1315](www.linkedin.com/in/shuoyang1315)
+* **Email:** [shuoyang.grad@gmail.com]
+* **LinkedIn:** [linkedin.com/in/shuoyang1315](linkedin.com/in/shuoyang1315)
