@@ -15,7 +15,7 @@ Incoming MS Bioinformatics student at Johns Hopkins University with a background
 A modular Python pipeline for patient-level biomarker feature prioritization using multivariable OLS regression, log-transform robustness checks, and publication-grade statistical visualizations.
 * **Keywords:** *Bioinformatics, Computational Biology, Precision Medicine, Biomarkers, Translational Oncology, Regression Analysis*
 
-### 🫁 [Lung Cancer Data Science Analysis](./lung-cancer-data-science-analysis)
+### 🫁 [Lung Cancer Data Science Analysis](https://github.com/sy-chou/lung-cancer-data-science-analysis.git)
 An exploratory and predictive data science workflow evaluating clinical risk patterns in lung cancer datasets. Implements disciplined cross-validation, multi-metric classification, and biological feature interpretation.
 * **Keywords:** *Precision Medicine, Machine Learning, Statistical Modeling, Scikit-Learn*
 
