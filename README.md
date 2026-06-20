@@ -19,9 +19,9 @@ A modular Python pipeline for patient-level biomarker feature prioritization usi
 A multimodal epidemiological pipeline integrating Excel, Stata, and SPSS datasets to analyze nationwide lung cancer risk using Welch's t-tests, Chi-Square tests of independence, and multi-panel stratification dashboards.
 * **Keywords:** *Epidemiology, Precision Medicine, Data Integration, Hypothesis Testing, Clinical Informatics, Scipy*
 
-### 📄 [Document OCR Pipeline](./document-ocr-pipeline)
-A document processing layout designed to transition unstructured paperwork into analytical text. Implements image preprocessing, OCR extraction, and automated text parsing for downstream NLP tasks.
-* **Keywords:** *Clinical Informatics, Biomedical NLP, Data Ingestion, Document AI*
+### 📄 [Document OCR Pipeline](https://github.com/sy-chou/document-ocr-pipeline.git)
+A computer-assisted Python pipeline featuring Tesseract OCR and a streaming regex ingestion engine to digitize and structure historical document archives.
+* **Keywords:** *OCR, Data Engineering, Tesseract, Regex, Data Ingestion*
 
 ---
 
