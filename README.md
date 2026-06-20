@@ -16,8 +16,8 @@ A modular Python pipeline for patient-level biomarker feature prioritization usi
 * **Keywords:** *Bioinformatics, Computational Biology, Precision Medicine, Biomarkers, Translational Oncology, Regression Analysis*
 
 ### 🫁 [Lung Cancer Data Science Analysis](https://github.com/sy-chou/lung-cancer-data-science-analysis.git)
-An exploratory and predictive data science workflow evaluating clinical risk patterns in lung cancer datasets. Implements disciplined cross-validation, multi-metric classification, and biological feature interpretation.
-* **Keywords:** *Precision Medicine, Machine Learning, Statistical Modeling, Scikit-Learn*
+A multimodal epidemiological pipeline integrating Excel, Stata, and SPSS datasets to analyze nationwide lung cancer risk using Welch's t-tests, Chi-Square tests of independence, and multi-panel stratification dashboards.
+* **Keywords:** *Epidemiology, Precision Medicine, Data Integration, Hypothesis Testing, Clinical Informatics, Scipy*
 
 ### 📄 [Document OCR Pipeline](./document-ocr-pipeline)
 A document processing layout designed to transition unstructured paperwork into analytical text. Implements image preprocessing, OCR extraction, and automated text parsing for downstream NLP tasks.
